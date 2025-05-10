@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#root {
+  padding-top: 16rem;
+  justify-items: center;
+}
